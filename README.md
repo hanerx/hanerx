@@ -1,8 +1,10 @@
 ### This is hanerx's GitHub, hello world! 👋
 ### State
 [![Hanerx's github stats](https://github-readme-stats.vercel.app/api?username=hanerx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hanerx's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=hanerx)](https://github.com/anuraghazra/github-readme-stats)
 ### Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanerx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
